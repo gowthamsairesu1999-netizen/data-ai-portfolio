@@ -154,24 +154,3 @@ Every project is built incrementally:
 
 Projects are developed step by step rather than presented as completed templates. Technologies are marked as **Completed, In Development, or Planned** based on their actual implementation status.
 
----
-
-## 📌 Currently Building
-
-### 🏥 Healthcare Claims Intelligence Platform
-
-Current learning/build path:
-
-`CSV → Python → PySpark → BigQuery → dbt → Data Modeling → Data Quality → SQL Analytics → Dashboard → ML → Airflow → GCS → Terraform → MLOps`
-
-The project begins with a small healthcare dataset and progressively evolves into an end-to-end cloud analytics platform.
-
----
-
-## 📫 Connect
-
-**GitHub:** `gowthamsairesu1999-netizen`
-
-**LinkedIn:** *Add LinkedIn URL*
-
-**Portfolio Website:** *Add portfolio URL*
