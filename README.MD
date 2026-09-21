@@ -130,37 +130,6 @@ An AI-powered analytics assistant designed to answer business questions using st
 
 📋 **Status: Planned**
 
----
-
-# 🧰 Technology Coverage
-
-| Capability        | Healthcare | Financial Risk | MLOps | AI Copilot |
-| ----------------- | :--------: | :------------: | :---: | :--------: |
-| SQL               |     🚧     |       📋       |   —   |     📋     |
-| Python            |     🚧     |       📋       |   📋  |     📋     |
-| Data Analytics    |     🚧     |       📋       |   —   |     📋     |
-| BI / Dashboards   |     🚧     |       📋       |   —   |      —     |
-| dbt               |     📋     |       📋       |   —   |      —     |
-| Data Modeling     |     📋     |       📋       |   —   |      —     |
-| Data Quality      |     🚧     |       📋       |   📋  |      —     |
-| PySpark           |     📋     |       📋       |   —   |      —     |
-| Airflow           |     📋     |       📋       |   —   |      —     |
-| Kafka / Streaming |      —     |       📋       |   —   |      —     |
-| GCP / BigQuery    |     📋     |       📋       |   —   |     📋     |
-| Machine Learning  |     📋     |       📋       |   📋  |      —     |
-| MLflow            |      —     |        —       |   📋  |      —     |
-| Docker            |      —     |        —       |   📋  |     📋     |
-| CI/CD             |      —     |        —       |   📋  |     📋     |
-| LLMs              |      —     |        —       |   —   |     📋     |
-| RAG               |      —     |        —       |   —   |     📋     |
-| Vector Databases  |      —     |        —       |   —   |     📋     |
-| AI Agents         |      —     |        —       |   —   |     📋     |
-
-### Status
-
-**✅ Completed** • **🚧 In Development** • **📋 Planned**
-
----
 
 # 🎯 Roles Demonstrated
 
